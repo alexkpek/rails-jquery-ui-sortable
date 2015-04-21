@@ -1,4 +1,4 @@
-# rails-jquery-ui-sortable
+# rails-jquery-ui-sortable <a href="http://badge.fury.io/rb/rails-jquery-ui-sortable"><img src="https://badge.fury.io/rb/rails-jquery-ui-sortable.svg" alt="Gem Version" height="18"></a>
 
 rails-jquery-ui-sortable wraps the [jQuery-UI Sortable](https://jqueryui.com/sortable/) interaction for use in Rails 3.1 and above.
 
